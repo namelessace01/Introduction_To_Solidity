@@ -33,9 +33,9 @@ contract Variables {
 
     function doSomething() view public {
         // Local Variable are not stored on the blockchain
-        uint256 i = 456;
-        uint256 timestamp = block.timestamp;
-        address sender = msg.sender;
+        // uint256 i = 456;
+        // uint256 timestamp = block.timestamp;
+        // address sender = msg.sender;
         // They have a yellow underline because they are unused
     }
 }
