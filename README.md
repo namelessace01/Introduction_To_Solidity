@@ -42,7 +42,7 @@ Implementing interfaces to structure your contracts.
 
 ---
 
-- **📂 Folder Structure**
+## 📂 Folder Structure
   
 ```
 ├── contracts/                  # Contains all Solidity (.sol) files
@@ -52,7 +52,7 @@ Implementing interfaces to structure your contracts.
 
 ---
 
-- **🚀 Getting Started**
+## 🚀 Getting Started
 
 - **Prerequisites**
   
@@ -74,7 +74,7 @@ cd Introduction_To_Solidity
 
 ---
 
-- **📖 Usage Guide**
+## 📖 Usage Guide
   
 -**Experimenting with Contracts:**
 
@@ -92,7 +92,7 @@ cd Introduction_To_Solidity
 
 ---
 
-- **📘 Concepts Covered**
+## 📘 Concepts Covered
   
 - **Basic Syntax:**
 
@@ -108,12 +108,12 @@ cd Introduction_To_Solidity
 
 ---
 
-- **🤝 Contributing**
+## 🤝 Contributing
 This is a beginner-focused project, but contributions to improve examples and add new concepts are welcome! Feel free to fork the repository and submit pull requests with additional examples or improvements.
 
 ---
 
-- **📜 License**
+## 📜 License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
 ---
