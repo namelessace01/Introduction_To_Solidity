@@ -1,9 +1,11 @@
-🚀 Introduction to Solidity
-A beginner-friendly repository to learn and explore the fundamentals of Solidity — a high-level programming language for writing smart contracts on the Ethereum blockchain.
+# 🚀 Introduction to Solidity
+> A beginner-friendly repository to learn and explore the fundamentals of Solidity — a high-level programming language for writing smart contracts on the Ethereum blockchain.
 
-Welcome to Introduction to Solidity! This repository is designed for developers who are new to Solidity and want to gain hands-on experience in building decentralized applications (dApps). The examples in this repository cover essential Solidity concepts and are structured to take you from basic syntax to more complex functionalities of the language.
+Welcome to **Introduction to Solidity!** This repository is designed for developers who are new to Solidity and want to gain hands-on experience in building decentralized applications (dApps). The examples in this repository cover essential Solidity concepts and are structured to take you from basic syntax to more complex functionalities of the language.
 
-📝 Repository Overview
+---
+
+## 📝 Repository Overview
 Each section in this repository provides practical examples to help you understand core Solidity concepts. Here's a summary of what you'll find:
 
 Getting Started with Solidity:
